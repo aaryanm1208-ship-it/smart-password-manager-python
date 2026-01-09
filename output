@@ -1,0 +1,23 @@
+PS C:\Users\Aaryan\Desktop\python-projects\smart_password_manager> python -u "c:\Users\Aaryan\Desktop\python-projects\smart_password_manager\main.py"
+
+1. Add Password
+2. View Password
+3. Exit
+Choose option: 1
+Website: Aaryanm
+Username: A
+Password: afstej$syh3n3 u93
+Password saved successfully!
+
+1. Add Password
+2. View Password
+3. Exit
+Choose option: 2
+Enter website name: Aaryanm
+Username: A
+Password: afstej$syh3n3 u93
+
+1. Add Password
+2. View Password
+3. Exit
+Choose option:
